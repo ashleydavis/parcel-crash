@@ -8,5 +8,6 @@ To reproduce, clone this repo, install dependenies and start it:
 git clone https://github.com/ashleydavis/parcel-crash.git
 cd parcel-crash
 pnpm install
+pnpm run compile
 pnpm start
 ```
