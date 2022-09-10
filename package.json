@@ -1,0 +1,14 @@
+{
+  "name": "editor-core",
+  "description": "Data-Forge Notebook Editor-core.",
+  "author": "ashley@codecapers.com.au",
+  "scripts": {
+    "clean": "pnpm --stream -r run clean",
+    "compile": "pnpm --stream -r run compile",
+    "start": "pnpm --filter text start"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
