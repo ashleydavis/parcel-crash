@@ -10,4 +10,4 @@ cd parcel-crash
 pnpm install
 pnpm run compile
 pnpm start
-```
+```This error happens with Node.js v18.9.0.MacOS 12.5.1 and 12.4.
