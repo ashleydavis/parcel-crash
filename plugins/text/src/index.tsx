@@ -32,7 +32,7 @@ class App extends React.Component<{}, IAppState> {
 
     render() {
         return (
-            <Text text={this.state.config?.data} />
+            <div>Hello world</div>
         );
     }
 }
