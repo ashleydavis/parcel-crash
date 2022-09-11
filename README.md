@@ -21,6 +21,7 @@ zsh: segmentation fault  pnpm start
 This crash happens with Node.js v16.16.0 and v18.9.0.
 MacOS 12.5.1 and 12.4.
 
+There is no crash on Windows or Ubuntu Linux.
 
 ## A workaround
 
